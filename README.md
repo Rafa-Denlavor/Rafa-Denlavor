@@ -1,7 +1,7 @@
 ![](./img/logo.png)
 
 <h1 align="center">Olá 👋, me chamo Rafaella Denlavor!</h1>
-<h3 align="center">Sou Frontend Developer na idwall | Autora</h3>
+<h3 align="center">Sou Frontend Developer na idwall | Autora Freelancer</h3>
 
 - 🔭 Atualmente, estou trabalhando no **Nutrion - Um Gerenciador de Pacientes**
 
