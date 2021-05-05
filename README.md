@@ -1,3 +1,5 @@
+![](./logo.png)
+
 <h1 align="center">Olá 👋, me chamo Rafaella Denlavor!</h1>
 <h3 align="center">Sou Frontend Developer na idwall | Autora</h3>
 
