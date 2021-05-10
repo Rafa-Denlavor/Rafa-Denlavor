@@ -1,4 +1,4 @@
-![](./img/logo.png)
+![](https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 <h1 align="center">Olá 👋, me chamo Rafaella Denlavor!</h1>
 <h3 align="center">Sou Frontend Developer na idwall | Autora</h3>
