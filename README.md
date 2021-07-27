@@ -1,19 +1,15 @@
-<h1 align="center">Olá 👋, me chamo Rafaella Denlavor!</h1>
+<h1 align="center">Prazer, Rafaella Denlavor!</h1>
 <h3 align="center">Sou Frontend Developer na idwall | Autora Freelancer</h3>
 
-- 🔭 Atualmente, estou trabalhando no **Nutrion - Um Gerenciador de Pacientes**
+🔭 Atualmente, estou trabalhando no **Nutrion Um Gerenciador de Pacientes**
 
-- 👯 Estou procurando colaborar em **projetos Open Source**
+💬 Pergunte-me sobre **Escrita Criativa**
 
-- 🤝 Procuro ajudar **devs iniciantes assim como eu.**
+📫 Me encontre através do email **rafinhacrisdenlavor@gmail.com**
 
-- 📝 Encontre meus livros aqui: [https://www.wattpad.com/user/Rafa-Denlavor](https://www.wattpad.com/user/Rafa-Denlavor)
+📝 Encontre meus livros aqui: [https://www.wattpad.com/user/Rafa-Denlavor](https://www.wattpad.com/user/Rafa-Denlavor)
 
-- 💬 Pergunte-me sobre **HTML, CSS e Escrita, pois é o que mais domino atualmente.**
-
-- 📫 Me encontre através do email **rafinhacrisdenlavor@gmail.com**
-
-- 📄 Conheça minhas experiências em [https://www.linkedin.com/in/rafaella-lopes-a9708b199/](https://www.linkedin.com/in/rafaella-lopes-a9708b199/)
+📄 Conheça minhas experiências em [https://www.linkedin.com/in/rafaella-lopes-a9708b199/](https://www.linkedin.com/in/rafaella-lopes-a9708b199/)
 
 - ⚡ Curiosidade: **Sou escritora há 5 anos e já ganhei mais de 8 concursos literários pelo wattpad.**
 
@@ -26,5 +22,4 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
-
 
