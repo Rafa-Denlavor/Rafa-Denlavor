@@ -2,8 +2,6 @@
 
 ## Sinta-se a vontade para partilhar!
 
-[![Rafa-Denlavor](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=gruvbox)](https://github.com/Rafa-Denlavor/)
-
 <p>
 
 Atualmente trabalhando na **idwall**<br/>
@@ -13,6 +11,8 @@ Sou **Fronted Developer Junior**.
 Escritora há 4 anos.
 
 <hr>
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-denlavor&hide=html&layout=compact=true&theme=gruvbox">
 
 ### Deseja me conhecer?
 
