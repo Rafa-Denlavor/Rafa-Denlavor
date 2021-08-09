@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rafa-denlavor&show_icons=true&title_color=f7cca1&text_color=ffffff&icon_color=f7cca1&bg_color=f7a128&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rafa-denlavor&show_icons=true&title_color=fac591&text_color=ffffff&icon_color=fac591&bg_color=f7a128&cache_seconds=2300">
 
 ## Sinta-se a vontade para partilhar!
 
@@ -16,11 +16,11 @@ Escritora há 4 anos.
 
 ### Deseja me conhecer?
 
-Leia meus livros no: [wattpad](https://www.wattpad.com/user/Rafa-Denlavor)
+Leia meus livros no [Wattpad](https://www.wattpad.com/user/Rafa-Denlavor)
 
-Encontre minhas experiências no: [linkedin](https://www.linkedin.com/in/rafaella-lopes-a9708b199/)
+Encontre minhas experiências no [Linkedin](https://www.linkedin.com/in/rafaella-lopes-a9708b199/)
 
-Contrate alguns dos meus serviços: [https://rafa-denlavor.github.io/portfolio-v2.0/#]
+Contrate alguns dos meus serviços através do meu [portfólio](https://rafa-denlavor.github.io/portfolio-v2.0/#)
 
 </p>
 <hr>
