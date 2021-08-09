@@ -4,11 +4,11 @@
 
 <p>
 
-Atualmente trabalhando na **idwall**<br/>
+Atualmente trabalho na **idwall**<br/>.
 
 Sou **Fronted Developer Junior**.
 
-Escritora há 4 anos.
+**Escritora há 4 anos.**
 
 <hr>
 
