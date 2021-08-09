@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rafa-denlavor&show_icons=true&title_color=f7cca1&text_color=ffffff&icon_color=f7cca1&bg_color=f7a128&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rafa-denlavor&theme=gruvbox">
 
 ## Sinta-se a vontade para partilhar!
 
