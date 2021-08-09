@@ -4,7 +4,7 @@
 
 <p>
 
-Atualmente trabalho na **idwall**<br/>.
+Atualmente trabalho na **idwall**.
 
 Sou **Fronted Developer Junior**.
 
