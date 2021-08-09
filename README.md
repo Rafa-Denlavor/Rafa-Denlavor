@@ -12,7 +12,7 @@ Sou **Fronted Developer Junior**.
 
 <hr>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-denlavor&hide=html&layout=compact=true&theme=gruvbox">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-denlavor&hide=html&layout=compact&theme=gruvbox">
 
 ### Deseja me conhecer?
 
@@ -21,8 +21,6 @@ Leia meus livros no [Wattpad](https://www.wattpad.com/user/Rafa-Denlavor).
 Encontre minhas experiências no [Linkedin](https://www.linkedin.com/in/rafaella-lopes-a9708b199/).
 
 Contrate alguns dos meus serviços através do [portfólio](https://rafa-denlavor.github.io/portfolio-v2.0/#).
-
-Entre em contato através do email **rafinhacrisdenlavor@gmail.com**.
 
 </p>
 <hr>
