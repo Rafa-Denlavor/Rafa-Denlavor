@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rafa-denlavor&show_icons=true&title_color=fac591&text_color=000000&icon_color=fac591&bg_color=f7a128&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rafa-denlavor&show_icons=true&title_color=f7cca1&text_color=ffffff&icon_color=f7cca1&bg_color=f7a128&cache_seconds=2300">
 
 ## Sinta-se a vontade para partilhar!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=DENLAVOR&color=f7a128&style=for-the-badge&logo=GitHub">
+[![Rafa-Denlavor](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=gruvbox)](https://github.com/Rafa-Denlavor/)
 
 <p>
 
