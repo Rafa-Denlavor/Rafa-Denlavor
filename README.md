@@ -22,12 +22,8 @@
 
 💬 Contrate alguns dos meus serviços através do [portfólio](https://rafa-denlavor.github.io/portfolio-v2.0/#).
 
-<hr>
-
- <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rafa-Denlavor&layout=compact&bg_color=FFEBCD&text_color=4F4F4F&hide_border=true(https://github.com/Rafa-Denlavor/github-readme-stats)"  />
-
  <hr>
-
+ 
 ### Linguagens e Ferramentas:
 
 <p display="flex" justify-content="space-evenly"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
