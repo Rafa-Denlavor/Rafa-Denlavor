@@ -24,7 +24,7 @@
 
 <hr>
 
- <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rafa-Denlavor&layout=compact&bg_color=FFEBCD&text_color=4F4F4F&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"  />
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rafa-Denlavor&layout=compact&bg_color=FFEBCD&text_color=4F4F4F&hide_border=true(https://github.com/Rafa-Denlavor/github-readme-stats)"  />
 
  <hr>
 
