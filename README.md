@@ -8,7 +8,7 @@
 
 🤔 Sou **Software Development Assistant**.
 
-🌱 **Escritora há 4 anos.**
+🌱 **Escritora há 5 anos.**
 
 <hr>
 
