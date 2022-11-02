@@ -6,7 +6,7 @@
 
 💼 Atualmente trabalho na **idwall**.
 
-🤔 Sou **Software Development Assistant**.
+🤔 Sou **Software Engineer I**.
 
 🌱 **Escritora há 5 anos.**
 
@@ -18,7 +18,7 @@
 
 📄 Leia meus livros no [Wattpad](https://www.wattpad.com/user/Rafa-Denlavor).
 
-⚡ Encontre minhas experiências no [Linkedin](https://www.linkedin.com/in/rafaella-lopes-a9708b199/).
+⚡ Encontre minhas experiências no [Linkedin](https://www.linkedin.com/in/rafaella-denlavor/).
 
 💬 Contrate alguns dos meus serviços através do [portfólio](https://rafa-denlavor.github.io/portfolio-v2.0/#).
 
