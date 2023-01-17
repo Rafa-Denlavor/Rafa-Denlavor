@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.canva.com/design/DAFX7-PDyfc/xnfJqraQHLlIlcv-axwgqQ/watch?utm_content=DAFX7-PDyfc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" width = 250px>
+<img align="right" src="assets/images/banner.gif" width = 250px>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
