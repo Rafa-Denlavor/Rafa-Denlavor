@@ -27,7 +27,7 @@
 
 - **Linguagens**:
  
-    	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![JAVASCRIPT](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 	![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>   
     
