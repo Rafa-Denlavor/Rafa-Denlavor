@@ -8,7 +8,8 @@
 <br>
 
 - Software Engineer I na idwall
-- Experiência com Javascript, React.js, Node.js e PostgreSQL
+- Experiência com Javascript, React.js e Node.js
+- Cursando: Sistemas para Internet (Uninove)
 - Aprendendo Three.js (Gráficos 3D)
 - Tempo na área: 2 anos e 6 meses
 - Fundamentos de UX/UI
