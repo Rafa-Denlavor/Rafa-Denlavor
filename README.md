@@ -14,7 +14,7 @@
 - Fundamentos de UX/UI
 - Participação ativa em discussões de produto
 - <a href="https://engineering.idwall.co/personalizando-components-no-react-com-o-mixin-2f5a93a9c959">Conheça a função Mixin do SASS através do meu artigo!</a>
-- Criado do <a href="https://www.polarizeme.com.br">PolarizeMe - O gerador de imagens polaroides</a>
+- Criadora do <a href="https://www.polarizeme.com.br">PolarizeMe</a>
 
 <br><br>
 
