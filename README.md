@@ -28,8 +28,7 @@
 - **Linguagens**:
  
     ![JAVASCRIPT](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-	![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br>   
+    ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
     
 - **Front-End Development**:
 
@@ -39,35 +38,38 @@
    	![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP%20-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    	![REACT](https://img.shields.io/badge/REACTJS%20-%231572B6.svg?style=for-the-badge&logo=reacts&logoColor=white)
 
-<br>
 
 - **Cloud Hosting**:
 
 	![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 	![Vercel](https://img.shields.io/badge/VERCEL-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)
 	![bohr.io](https://img.shields.io/badge/bohr.io-orange.svg?style=for-the-badge&logo=bohr.io&logoColor=white)
-    
-<br>
+	![Render](https://img.shields.io/badge/render-blue.svg?style=for-the-badge&logo=render&logoColor=white)
+
+- **Banco de dados**:
+
+	![Postgresql](https://img.shields.io/badge/Postgresql-9cf?style=for-the-badge&logo=Postgresql&logoColor=black)
+	![mongodb](https://img.shields.io/badge/mongodb-success?style=for-the-badge&logo=mongodb&logoColor=black) 
+
+
+- **Monitoramento**:
+	
+	![Logrocket](https://img.shields.io/badge/logrocket-blueviolet?style=for-the-badge&logo=logrocket&logoColor=white)
+	![Datadog](https://img.shields.io/badge/datadog-blueviolet?style=for-the-badge&logo=datadog&logoColor=white)
+
 
 - **Softwares and Tools**:
 
-	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 	![Docker](https://img.shields.io/badge/docker-%231572B6?style=for-the-badge&logo=docker&logoColor=white) 
+	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
 
-- **Extras**:
+- **Testes**:
 
 	![Jest](https://img.shields.io/badge/jest-%23E34F26?style=for-the-badge&logo=jest&logoColor=white) 
-	![Logrocket](https://img.shields.io/badge/logrocket-blueviolet?style=for-the-badge&logo=logrocket&logoColor=white)
-	![Datadog](https://img.shields.io/badge/datadog-blueviolet?style=for-the-badge&logo=datadog&logoColor=white)
-	![GCP](https://img.shields.io/badge/gcp-lightgray?style=for-the-badge&logo=gcp&logoColor=black)
-	![Postgresql](https://img.shields.io/badge/Postgresql-9cf?style=for-the-badge&logo=Postgresql&logoColor=black)
-	![mongodb](https://img.shields.io/badge/mongodb-success?style=for-the-badge&logo=mongodb&logoColor=black)
-
 
 </p>
 
