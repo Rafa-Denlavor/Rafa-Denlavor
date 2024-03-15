@@ -30,13 +30,18 @@
     ![JAVASCRIPT](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
     
-- **Front-End Development**:
+- **Front-End**:
 
 	![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    	![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 	![SASS](https://img.shields.io/badge/SASS%20-FF69B4.svg?style=for-the-badge&logo=sass&logoColor=white)
    	![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP%20-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-   	![REACT](https://img.shields.io/badge/REACTJS%20-%231572B6.svg?style=for-the-badge&logo=reacts&logoColor=white)
+   	![REACT](https://img.shields.io/badge/REACT%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+
+- **Back-End**:
+
+	![NODE](https://img.shields.io/badge/NODE%20-success.svg?style=for-the-badge&logo=nodejs&logoColor=black)
+	![EXPRESS](https://img.shields.io/badge/express%20-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=black)
 
 
 - **Cloud Hosting**:
@@ -60,7 +65,8 @@
 
 - **Softwares and Tools**:
 
-	![Docker](https://img.shields.io/badge/docker-%231572B6?style=for-the-badge&logo=docker&logoColor=white) 
+	![Docker](https://img.shields.io/badge/docker-%231572B6?style=for-the-badge&logo=docker&logoColor=white)
+	![Redis](https://img.shields.io/badge/redis-%23121011?style=for-the-badge&logo=redis&logoColor=red)
 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
