@@ -10,7 +10,7 @@
 - Software Engineer I na idwall
 - Experiência com Javascript, React.js e Node.js
 - Cursando: Sistemas para Internet (Uninove)
-- Tempo na área: 3 anos e 6 meses
+- Tempo na área: 3 anos e 10 meses
 - Fundamentos de UX/UI
 - Participação ativa em discussões de produto
 - <a href="https://engineering.idwall.co/personalizando-components-no-react-com-o-mixin-2f5a93a9c959">Conheça a função Mixin do SASS através do meu artigo!</a>
