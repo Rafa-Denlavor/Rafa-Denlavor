@@ -36,13 +36,14 @@
    	![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 	![SASS](https://img.shields.io/badge/SASS%20-FF69B4.svg?style=for-the-badge&logo=sass&logoColor=white)
    	![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP%20-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+        ![TAILWIND](https://img.shields.io/badge/TAILWIND%20-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
    	![REACT](https://img.shields.io/badge/REACT%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
 
 - **Back-End**:
 
-	![NODE](https://img.shields.io/badge/NODE%20-success.svg?style=for-the-badge&logo=nodejs&logoColor=black)
-	![EXPRESS](https://img.shields.io/badge/express%20-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=black)
-
+	![NODE](https://img.shields.io/badge/NODE%20-success.svg?style=for-the-badge&logo=node.js&logoColor=white)
+	![EXPRESS](https://img.shields.io/badge/express%20-%23E34F26.svg?style=for-the-badge&logo=express&logoColor=white)
+        ![NEST](https://img.shields.io/badge/nestjs%20-%23E34F26.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 - **Cloud Hosting**:
 
@@ -53,7 +54,7 @@
 
 - **Banco de dados**:
 
-	![Postgresql](https://img.shields.io/badge/Postgresql-9cf?style=for-the-badge&logo=Postgresql&logoColor=black)
+	![PostgreSQL](https://img.shields.io/badge/Postgresql-9cf?style=for-the-badge&logo=Postgresql&logoColor=black)
 	![mongodb](https://img.shields.io/badge/mongodb-success?style=for-the-badge&logo=mongodb&logoColor=black) 
 
 
@@ -75,7 +76,8 @@
 
 - **Testes**:
 
-	![Jest](https://img.shields.io/badge/jest-%23E34F26?style=for-the-badge&logo=jest&logoColor=white) 
+	![Jest](https://img.shields.io/badge/jest-%23E34F26?style=for-the-badge&logo=jest&logoColor=white)
+        ![Cypress](https://img.shields.io/badge/cypress%20-success.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 </p>
 
