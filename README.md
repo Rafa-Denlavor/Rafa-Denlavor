@@ -10,7 +10,7 @@
 - Software Engineer I na idwall
 - Experiência com Javascript, React.js e Node.js
 - Cursando: Sistemas para Internet (Uninove)
-- Tempo na área: 4 anos e 2 meses
+- Tempo na área: 4 anos e 8 meses
 - Fundamentos de UX/UI
 - Participação ativa em discussões de produto
 - Criadora do <a href="https://www.polarizeme.com.br">PolarizeMe</a>
